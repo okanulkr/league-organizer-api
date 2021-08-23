@@ -1,0 +1,9 @@
+C:\Users\okanu\source\repos\SoccerTeams\SoccerTeams\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\okanu\source\repos\SoccerTeams\SoccerTeams\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\okanu\source\repos\SoccerTeams\SoccerTeams\obj\Release\net5.0\win-x64\PubTmp\Out\SoccerTeams.pdb
+C:\Users\okanu\source\repos\SoccerTeams\SoccerTeams\obj\Release\net5.0\win-x64\PubTmp\Out\clrcompression.dll
+C:\Users\okanu\source\repos\SoccerTeams\SoccerTeams\obj\Release\net5.0\win-x64\PubTmp\Out\clrjit.dll
+C:\Users\okanu\source\repos\SoccerTeams\SoccerTeams\obj\Release\net5.0\win-x64\PubTmp\Out\coreclr.dll
+C:\Users\okanu\source\repos\SoccerTeams\SoccerTeams\obj\Release\net5.0\win-x64\PubTmp\Out\mscordaccore.dll
+C:\Users\okanu\source\repos\SoccerTeams\SoccerTeams\obj\Release\net5.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\Users\okanu\source\repos\SoccerTeams\SoccerTeams\obj\Release\net5.0\win-x64\PubTmp\Out\SoccerTeams.exe
